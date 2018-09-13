@@ -1,0 +1,98 @@
+@import 'constants';
+
+.calls {
+  bottom: 34rem;
+  left: 0;
+  overflow-y: scroll;
+  position: absolute;
+  right: 0;
+  top: 4.5rem;
+
+  .call {
+    .actions {
+      float: right;
+      padding: 1rem;
+
+      button {
+        @extend %normalize;
+        cursor: pointer;
+        display: inline-block;
+        margin-top: .5rem;
+        opacity: .7;
+        transition: opacity .3s;
+        width: 2.8rem;
+
+        & + button {
+          margin-left: .8rem;
+        }
+
+        &:hover {
+          opacity: 1;
+        }
+      }
+    }
+  }
+}
+
+.dial.pad {
+  background-color: $white;
+  bottom: 6rem;
+  left: 0;
+  right: 0;
+  padding: .5rem;
+  position: absolute;
+  text-align: center;
+
+  input.phone {
+    border: none;
+    color: $dark_blue;
+    display: block;
+    font-size: 1.8rem;
+    margin: .3rem auto;
+    text-align: center;
+    width: 100%;
+  }
+
+  button {
+    background: #fff;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    float: left;
+    height: 5rem;
+    margin: 1% 0;
+    overflow: hidden;
+    transition: background-color .2s;
+    width: 32%;
+
+    & + button {
+      margin-left: 2%;
+    }
+
+    &:hover {
+      background-color: $light_yellow;
+    }
+
+    &:active {
+      box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+    }
+
+    b {
+      color: #919295;
+      display: block;
+      font-size: 1.5rem;
+      font-weight: 700;
+    }
+
+    i {
+      color: #D8D8D8;
+      display: block;
+      font-size: 1rem;
+      letter-spacing: .1rem;
+    }
+
+    .invisible {
+      visibility: hidden;
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "unicorn-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark theme featuring bright colors",
+  "keywords": [
+    "syntax",
+    "theme",
+    "dark",
+    "contrast",
+    "unicorn",
+    "rainbow"
+  ],
+  "repository": "https://github.com/UnicornAgency/Atom-Unicorn-Dark-Syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

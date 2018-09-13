@@ -1,0 +1,13 @@
+.syntax--less, &.syntax--css {
+  &.syntax--variable {
+    color: @blue !important;
+  }
+
+  &.syntax--function {
+    color: @red !important;
+  }
+
+  &.syntax--constant.syntax--numeric, &.syntax--percentage {
+    color: @white !important;
+  }
+}

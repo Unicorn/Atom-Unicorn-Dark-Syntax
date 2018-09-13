@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>phone</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Toolbar---Idle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1174.000000, -944.000000)">
+        <g id="Bottom-Bar" transform="translate(1140.000000, 913.000000)">
+            <g id="Top-Bar" transform="translate(0.000000, -4.000000)">
+                <g id="Call">
+                    <g id="phone" transform="translate(25.000000, 27.000000)">
+                        <rect id="@bounds" x="0" y="0" width="40" height="40"></rect>
+                        <path d="M9.50824487,12.8645212 C9.50824487,16.4217582 12.0137693,21.4273362 17.6144453,26.4493809 C23.2151213,31.4714256 27.0708727,33.242197 30.2636503,32.4876811 C31.6283474,32.1651764 35.6420782,29.1787841 33.1277335,26.8884724 C32.5966592,26.4047178 29.5831351,23.5876385 27.1903596,23.1213253 C25.7397961,22.838634 24.9829016,25.1447985 23.6064875,24.2903668 C21.7232647,23.1213253 18.9029658,20.5585767 17.8722579,18.3015486 C17.3860982,17.2369636 19.9041254,15.4746583 19.3371705,14.5276728 C17.1518746,10.8775699 15.6306509,8.46274072 14.2254144,8.46274072 C13.3300597,8.46274072 9.50824487,9.30728423 9.50824487,12.8645212 Z" id="Path-107" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
