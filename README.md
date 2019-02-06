@@ -2,7 +2,6 @@
 
 A dark theme for Atom editor, featuring bright colors.
 
+<img width="1680" alt="screen shot 2019-02-05 at 8 23 52 pm" src="https://user-images.githubusercontent.com/209344/52315265-3b5ec800-2984-11e9-9746-8c6ad06959d2.png">
 
-<img width="1680" alt="screen shot 2018-09-13 at 4 17 21 pm" src="https://user-images.githubusercontent.com/209344/45513495-cdb1c580-b770-11e8-91d4-2ff2abb9d919.png">
-
-<img width="1680" alt="screen shot 2018-09-13 at 4 20 26 pm" src="https://user-images.githubusercontent.com/209344/45513544-f1750b80-b770-11e8-9981-14bf024b844d.png">
+<img width="1680" alt="screen shot 2019-02-05 at 8 25 03 pm" src="https://user-images.githubusercontent.com/209344/52315266-3bf75e80-2984-11e9-807c-271b38a0001e.png">
