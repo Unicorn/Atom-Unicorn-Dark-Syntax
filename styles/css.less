@@ -1,0 +1,30 @@
+.syntax--less, &.syntax--css, &.syntax--scss {
+  &.syntax--attribute-name, &.syntax--tag {
+    color: @pink !important;
+  }
+
+  &.syntax--extend {
+    color: @purple;
+  }
+
+  &.syntax--property-name {
+    font-weight: 600;
+  }
+
+  &.syntax--property-value {
+    color: @white;
+    font-style: italic;
+  }
+
+  &.syntax--variable, &.syntax--placeholder {
+    color: @blue !important;
+  }
+
+  &.syntax--function {
+    color: @yellow !important;
+  }
+
+  &.syntax--important {
+    color: @red !important;
+  }
+}
